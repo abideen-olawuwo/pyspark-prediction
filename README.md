@@ -1,3 +1,2 @@
-Using Unsupervised Learning (Clustering) For Annual spending in monetary units of clients of a wholesale distributor,
-The dataset was downloaded from kaggle.com
-https://www.kaggle.com/datasets/binovi/wholesale-customers-data-set
+Making Prediction on a dataset using Apache Spark. The data was downloaded from kaggle
+https://www.kaggle.com/datasets/bhaveshjain1612/regression-dataset
